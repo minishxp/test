@@ -1,0 +1,18 @@
+/*
+background: rgb(36,39,44);
+background: linear-gradient(90deg, rgba(36,39,44,1) 0%, rgba(93,101,103,1) 100%);
+*/
+
+:root {
+  --bg: rgb(36, 38, 44);
+  --main-box__inner: linear-gradient(90deg, rgba(36,39,44,1) 0%, rgba(93,101,103,1) 100%);
+  --main-box__inner2: rgb(36, 39, 44);
+  --main-box__border: rgb(45, 46, 53);
+
+  --textbox__inner: rgb(43, 47, 53);
+  --textbox__border: rgb(53, 54, 63);
+  
+  --button__inner: rgb(77, 81, 88);
+  --button__inner-HOVER: rgb(93, 97, 104);
+  --button__inner-ACTIVE: rgb(90, 93, 100);
+}
