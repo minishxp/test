@@ -1,0 +1,4 @@
+EXPORT_ARGS [
+  MODULE_NAME: BitcoinConversionApi;
+  MODULE_LANG: Enum.Lang.Js;
+]
